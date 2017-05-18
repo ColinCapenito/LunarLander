@@ -1,0 +1,80 @@
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-image: url("Space Background.jpg");
+}
+
+h1.header {
+	font-family: 'VT323', monospace;
+	color: snow;
+	font-size: 4em;
+	text-align: center;
+}
+
+h2.header {
+	font-family: 'VT323', monospace;
+	color: snow;
+	text-align: center;
+}
+
+
+#header {
+	background-image: url('Space Background.jpg');
+	padding-bottom: 25px;
+}
+
+#instructions {
+	background-color: darkblue;
+	padding-bottom: 10px;
+	padding-top: 25px;
+	font-family: 'VT323', monospace;
+	color: snow;
+}
+
+
+#gamescreen {
+	margin-left: auto;
+	margin-right: auto;
+	background-color: black;
+	width: 500px;
+	height: 600px;
+	border: solid snow 5px;
+	position: relative;
+}
+
+
+.floatMeRight {
+	float: right;
+	margin-right: 30px;
+	margin-top: 5px;
+}
+
+.floatMeLeft {
+	float: left;
+	margin-left: 30px;
+	margin-top: 5px;
+}
+
+.center {
+	text-align: center;
+	margin-left: 520px;
+	margin-top: 5px;
+}
+
+#moonSurface {
+	padding-top: 420px;
+}
+
+.new {
+	font-family: 'VT323', monospace;
+	color: snow;
+	text-align: center;
+	background-color: darkblue;
+	font-size: 2em;
+	border: none;
+}
+
